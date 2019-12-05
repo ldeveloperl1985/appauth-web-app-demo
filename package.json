@@ -1,0 +1,17 @@
+{
+  "name": "appauth-web-app-demo",
+  "version": "1.0.0",
+  "description": "Demo Web Application authentication using AppAuth-JS",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Meghna Joshi",
+  "license": "ISC",
+  "dependencies": {
+    "@openid/appauth": "^1.2.6"
+  },
+  "devDependencies": {
+    "http-server": "^0.12.0"
+  }
+}
